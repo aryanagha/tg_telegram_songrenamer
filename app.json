@@ -1,7 +1,7 @@
 {
     "name": "Simple Video Uploader",
     "description": "Simple Video Uploader",
-    "repository": "https://github.com/aryanagha/song_renamer_eng",
+    "repository": "https://github.com/aryanagha/tg_telegram_songrenamer",
     "success_url": "https://t.me/ali110ali",
     "stack": "heroku-20",
     "env": {
